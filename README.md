@@ -17,4 +17,5 @@ A project for detecting hand gestures using MediaPipe and OpenCV.
    ```
 ## Thanks
    https://github.com/ysthehurricane/hand_gesture_detection/tree/main
+   
    https://www.kaggle.com/datasets/riondsilva21/hand-keypoint-dataset-26k
