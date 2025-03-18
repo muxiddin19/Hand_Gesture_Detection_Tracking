@@ -14,4 +14,4 @@ A project for detecting hand gestures using MediaPipe and OpenCV.
    git clone https://github.com/muxiddin19/hand-gesture-detection.git
    cd hand-gesture-detection
    python handDetection*.py
-   '''
+   ```
