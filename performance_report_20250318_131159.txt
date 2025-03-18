@@ -1,0 +1,57 @@
+=== HAND TRACKING PERFORMANCE REPORT ===
+
+Date: 2025-03-18 13:12:12
+Total Frames Analyzed: 75
+Frames with Hand Detections: 75
+
+CORE DETECTION METRICS:
+  Accuracy:        88.0%
+  Precision:       88.0%
+  Recall:          100.0%
+  F1 Score:        93.62%
+
+PERFORMANCE METRICS:
+  Average FPS:     27.7
+
+TRACKING QUALITY METRICS:
+  Landmark Confidence: 0.0%
+  Detection Rate:      100.0%
+  Jitter:              4.59 pixels
+  Prediction Accuracy: 89.31%
+  Stability:           100.0%
+
+CONFUSION MATRIX:
+  True Positives:       66
+  False Positives:      9
+  True Negatives:       0
+  False Negatives:      0
+
+TEMPORAL CONSISTENCY METRICS:
+  Continuity Breaks:    0
+  Average Landmark Displacement: 5.734448625099617 pixels
+  Average Prediction Error: 14.128444501581235 pixels
+
+PER-LANDMARK CONFIDENCE METRICS:
+  Wrist: 0.00%
+  Thumb base: 0.00%
+  Thumb mid: 0.00%
+  Thumb distal: 0.00%
+  Thumb tip: 0.00%
+  Index base: 0.00%
+  Index mid: 0.00%
+  Index distal: 0.00%
+  Index tip: 0.00%
+  Middle base: 0.00%
+  Middle mid: 0.00%
+  Middle distal: 0.00%
+  Middle tip: 0.00%
+  Ring base: 0.00%
+  Ring mid: 0.00%
+  Ring distal: 0.00%
+  Ring tip: 0.00%
+  Pinky base: 0.00%
+  Pinky mid: 0.00%
+  Pinky distal: 0.00%
+  Pinky tip: 0.00%
+
+=== END OF REPORT ===
