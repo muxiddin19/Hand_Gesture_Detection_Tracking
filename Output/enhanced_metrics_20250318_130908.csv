@@ -1,0 +1,6 @@
+accuracy,precision,recall,f1_score,fps,avg_landmark_confidence,detection_rate,jitter,prediction_accuracy,stability
+100.0,0.0,0.0,0,6.7,0,0.0,0,0,100.0
+100.0,0.0,0.0,0,30.0,0,0.0,0,0,100.0
+96.77,0.0,0.0,0,30.0,0,0.0,0,0,100.0
+97.83,0.0,0.0,0,30.0,0,0.0,0,0,100.0
+98.36,0.0,0.0,0,30.0,0,0.0,0,0,100.0
